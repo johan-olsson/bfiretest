@@ -37,4 +37,4 @@ export default {
         app.inject('route', 'auth', 'auth:main');
 
     }
-}
+};
