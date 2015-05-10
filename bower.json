@@ -17,5 +17,8 @@
     "firebase": "^2.1.0",
     "emberfire": "~1.4.4",
     "firebase-simple-login": "~1.6.4"
+  },
+  "resolutions": {
+    "firebase": "^2.1.0"
   }
 }
